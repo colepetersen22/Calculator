@@ -2,13 +2,17 @@
 package calculator;
 
 /**
- *
- * @author Cole
+ * Simple Calculator application to perform basic operations
+ * 
+ * Author: Cole Petersen
+ * 
+ * Code mostly taken from a tutorial found here:
+ * https://www.youtube.com/watch?v=_ZW4ktG1DEE&t=83s
  */
 public class Calculator extends javax.swing.JFrame {
 
     /**
-     * Creates new form Calculator_Frame
+     * Creates new form Calculator
      */
     
     double number,answer;
